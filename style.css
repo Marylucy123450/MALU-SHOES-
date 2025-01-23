@@ -128,3 +128,50 @@ nav{
   color: white;
 }
 
+.sliderItem:nth-child(1) .sliderBg{
+  background-color: BLACK;
+}
+
+.sliderItem:nth-child(2) .sliderBg{
+  background-color: yellow;
+}
+
+
+.sliderItem:nth-child(3) .sliderBg{
+  background-color: black;
+}
+
+
+.sliderItem:nth-child(4) .sliderBg{
+  background-color: green;
+}
+
+
+.sliderItem:nth-child(5) .sliderBg{
+  background-color: purple;
+}
+
+
+
+.sliderItem:nth-child(1) .sliderPrice{
+  background-color: silver;
+}
+
+.sliderItem:nth-child(2) .sliderPrice{
+  background-color: yellow;
+}
+
+
+.sliderItem:nth-child(3) .sliderPrice{
+  background-color: silver;
+}
+
+
+.sliderItem:nth-child(4) .sliderPrice{
+  background-color: green;
+}
+
+
+.sliderItem:nth-child(5) .sliderPrice{
+  background-color: purple;
+}
